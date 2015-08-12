@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Arvo|Dosis|Fugaz+One);
+@import url(http://fonts.googleapis.com/css?family=Roboto|Arvo|Dosis|Monda|Exo);
 
 body {
 	background-color: #252f38;
@@ -9,16 +9,16 @@ body {
 div {  }
 
 .text {
-	font-size: 3em;
+	font-size: 3.3em;
 	text-transform: uppercase;
 	color: #46c699;
-	font-family: Arvo, Dosis, Helvetica, Sans;
+	font-family: Monda, Dosis, Helvetica, Sans;
 }
 
 .highlighted {
-	font-size: 8em;
+	font-size: 7.4em;
 	color: #f7d32a;
-	margin: 0.05em 0 0.05em 0;
+	margin: 0.2em 0 0.2em 0;
 	/*text-transform: uppercase;*/
-	font-family: "Fugaz One", Dosis, Helvetica, Sans;
+	font-family: "Exo", Dosis, Helvetica, Sans;
 }
