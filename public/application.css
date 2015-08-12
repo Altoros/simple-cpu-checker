@@ -1,0 +1,24 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo|Dosis|Fugaz+One);
+
+body {
+	background-color: #252f38;
+	text-align: center;
+	margin-top: 10em;
+}
+
+div {  }
+
+.text {
+	font-size: 3em;
+	text-transform: uppercase;
+	color: #46c699;
+	font-family: Arvo, Dosis, Helvetica, Sans;
+}
+
+.highlighted {
+	font-size: 8em;
+	color: #f7d32a;
+	margin: 0.05em 0 0.05em 0;
+	/*text-transform: uppercase;*/
+	font-family: "Fugaz One", Dosis, Helvetica, Sans;
+}
