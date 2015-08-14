@@ -1,6 +1,5 @@
 ---
 applications:
-- name: tell-me-your-cpu
+- name: cpu-checker
   memory: 512Mb
   buildpack: "https://github.com/Altoros/ruby-buildpack#power"
-  stack: trustyppc64le
